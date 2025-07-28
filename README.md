@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+"Her voice is like moonlight — soft, gentle, and unforgettable." 🌙  Let me [play you a song](https://www.youtube.com/watch?v=dqQNJSXAlWM), sprinkled with soul and rhythm. 🎵
+
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iytzhu/iytzhu/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iytzhu/iytzhu/output/github-contribution-grid-snake.svg">
